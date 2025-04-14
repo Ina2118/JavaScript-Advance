@@ -1,0 +1,39 @@
+function addItem() {
+
+    const textEl = document.getElementById("newItemText");
+    const valueEl = document.getElementById("newItemValue");
+
+    const menu = document.getElementById("menu");
+    let option = document.createElement("option");
+    
+    option.textContent = textEl.value;
+    option.value = valueEl.value;
+
+    menu.appendChild(option);
+
+    textEl.value = '';
+    valueEl.value = '';
+    
+}
+
+
+function addItem() {
+    
+    let inputTextElement = document.querySelector('#newItemText');
+
+    let inputValueElement = document.querySelector('#newItemValue');
+
+    let menu = document.querySelector('#menu');
+
+    let option = document.createElement('option');
+
+    option.textContent = inputTextElement.value;
+
+    option.value = inputValueElement.value;
+
+    menu.appendChild(option);
+
+    inputTextElement.value = '';
+    inputValueElement.value = '';
+
+}
