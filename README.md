@@ -12,17 +12,18 @@ This repository demonstrates practical experience with advanced JavaScript conce
 
 ## Repository structure
 
-JavaScript-Advance/ 
-├── Advance function/ 
-├── Class/ 
-├── DOM EX/ 
-├── DOM Manipolations/ 
-├── DOM/ 
-├── Objects & Composition/ 
-├── Prototypes-and-Inheritance/ 
-├── Syntax, Functions and Statements/ 
+JavaScript-Advance/
+├── Advance function/
+├── Class/
+├── DOM EX/
+├── DOM Manipolations/
+├── DOM/
+├── Objects & Composition/
+├── Prototypes-and-Inheritance/
+├── Syntax, Functions and Statements/
 ├── Unit testing/
-├── array and nested array/
+└── array and nested array/
+
 
 ## Usage
 
