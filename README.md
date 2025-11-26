@@ -10,11 +10,6 @@ This repository demonstrates practical experience with advanced JavaScript conce
 - Inline learning notes and explanations in Bulgarian that document the problem-solving process
 - Coverage of the main topics in the JS Advanced curriculum
 
-## Repository structure
-
-<pre> ```text JavaScript-Advance/ ├── Advance function/ ├── Class/ ├── DOM EX/ ├── DOM Manipolations/ ├── DOM/ ├── Objects & Composition/ ├── Prototypes-and-Inheritance/ ├── Syntax, Functions and Statements/ ├── Unit testing/ └── array and nested array/ ``` </pre>
-
-
 ## Usage
 
 1. Browse to a folder that matches the topic you want to review.
